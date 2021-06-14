@@ -1,0 +1,20 @@
+body{
+text-align: center;    
+background-color: chartreuse;
+}
+div{
+margin-top:15px;    
+    
+    
+}
+image{
+display: flex;
+justify-content:center;
+}
+
+
+.section-style{
+display: flex;
+justify-content:center       
+}
+
